@@ -1,0 +1,47 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+ 127.0.0.1 bettertouchtool.net
+ 127.0.0.1 updates.bettertouchtool.net
+   
+# MacWk.com Hosts Start
+
+# Sublime Text
+127.0.0.1 www.sublimetext.com
+127.0.0.1 sublimetext.com
+127.0.0.1 license.sublimehq.com
+
+# BetterTouchTool
+127.0.0.1 folivora.ai
+127.0.0.1 www.folivora.ai
+127.0.0.1 updates.boastr.net
+127.0.0.1 updates.folivora.ai
+
+# Royal TSX
+127.0.0.1 api.royalapps.com
+
+
+# GitHub Host Start
+#https://www.ipaddress.com/site/github.com
+140.82.112.3 github.com 
+
+#https://www.ipaddress.com/site/github.global.ssl.fastly.net
+151.101.1.194 github.global.ssl.fastly.n 
+
+#https://www.ipaddress.com/site/github.githubassets.com
+185.199.108.154 github.githubassets.com
+185.199.109.154 github.githubassets.com
+185.199.110.154 github.githubassets.com
+185.199.111.154 github.githubassets.com
+
+# GitHub Host End
+
+# steam
+#23.52.74.146 steamcommunity.com
+

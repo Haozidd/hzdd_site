@@ -1,0 +1,7 @@
+{
+  "watch": ["*.*"],
+  "ext": ".js",
+  "ignore": [],
+  "exec": "node main.js",
+  "restartable": "rs"
+}

@@ -1,0 +1,17 @@
+{
+  "baidu": {
+    "name": "百度",
+    "url": "https://www.baidu.com/baidu",
+    "params": "?word="
+  },
+  "bing": {
+    "name": "必应",
+    "url": "https://cn.bing.com/search",
+    "params": "?q="
+  },
+  "npm": {
+    "name": "npm",
+    "url": "https://www.npmjs.com/search",
+    "params": "?q="
+  }
+}
